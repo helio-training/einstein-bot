@@ -1,8 +1,8 @@
-# Botkit Starter Kit
+# Einstein Bot
 
-This is a Botkit starter kit for botframework, created with the [Yeoman generator](https://github.com/howdyai/botkit/tree/master/packages/generator-botkit#readme)
+Assists you in your learning space on Teams as a chat bot.
 
-[Botkit Docs](https://botkit.ai/docs/v4)
+## Features
 
-This bot is powered by [a folder full of modules](https://botkit.ai/docs/v4/core.html#organize-your-bot-code). 
-Edit the samples, and add your own in the [features/](features/) folder.
+- Term Management
+- Learning Path Management
